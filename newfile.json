@@ -1,1 +1,3 @@
-hi all, this isn't json'
+{
+  "real_key" : "new_value"
+}
